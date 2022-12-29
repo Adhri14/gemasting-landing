@@ -72,7 +72,7 @@ export default function Navbar() {
                                 <li className="lg:text-center py-3 lg:py-0 w-full">
                                     <a
                                         className="text-base font-regular hover:font-semibold text-primary transition duration-300 ease-in-out"
-                                        href="/"
+                                        href="#!"
                                     >
                                         KMSOnline
                                     </a>
@@ -136,7 +136,7 @@ export default function Navbar() {
                         <li className="text-right py-3 lg:py-0 w-full">
                             <a
                                 className="text-base font-regular text-primary transition duration-300 ease-in-out hover:text-primary"
-                                href="/"
+                                href="#!"
                             >
                                 KMSOnline
                             </a>
