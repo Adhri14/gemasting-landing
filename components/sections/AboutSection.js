@@ -31,10 +31,10 @@ export default function AboutSection() {
                             kemampuan dan kompetensi yang dapat bersaing dengan
                             seluruh penduduk dunia Internasional. Melalui Moto
                             dengan Great and Measurable to Achieve Everything
-                            atau dalam arti bahasa Indonesia dengan "berfikir
-                            besar (Great) dan Melangkah secara terukur
-                            (Measurable) maka kita dapat meraih segala yang kita
-                            inginkan (Achieve Everything)."
+                            atau dalam arti bahasa Indonesia dengan
+                            &ldquo;berfikir besar (Great) dan Melangkah secara
+                            terukur (Measurable) maka kita dapat meraih segala
+                            yang kita inginkan (Achieve Everything).&rdquo;
                         </p>
                     </div>
                 </div>

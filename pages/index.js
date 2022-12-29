@@ -21,6 +21,7 @@ export default function Home() {
                     href="https://wa.me/6281292245171/?text=Saya ingin bertanya tentang gemasting"
                     className="block"
                     target="_blank"
+                    rel="noreferrer"
                 >
                     <img src="/img/wa.png" alt="WA" width={40} height={40} />
                 </a>
